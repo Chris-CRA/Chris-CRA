@@ -1,13 +1,19 @@
-# Curso de Back-end com Gemini na Alura
+👋 Olá, bem-vindo ao meu GitHub!
+🔹 Quem sou eu?
+Sou um entusiasta da tecnologia, sempre explorando novas linguagens, frameworks e soluções criativas para desafios de desenvolvimento.
 
-## Descrição
-Este repositório contém os materiais e projetos desenvolvidos durante o curso de back-end com Gemini da Alura. 
+🔹 O que você encontrará aqui?
 
-## Conteúdo
-* **Módulo 1:** Desvendando API's e servidores.
-* **Módulo 2:** Criando e Estruturando sua Primeira API com GET e Banco de Dados.
-* **Módulo 3:** Conectando sua API ao MongoDB: Estrutura, Conexão e Refatoração.
-* **Módulo 4:** Publicando na Google Cloud: Configuração de API e Integração com Gemini.
+Projetos pessoais e experimentos de código
+Contribuições para open source
+Códigos organizados (ou quase isso 😆)
+🔹 Tecnologias que gosto de usar:
+💻 Java, JavaScript, Python
+🚀 Backend, APIs, Banco de Dados
+🎨 Frontend (um pouco de CSS nunca fez mal a ninguém)
 
+🔹 Conecte-se comigo!
+Se quiser trocar uma ideia sobre tecnologia, inovação ou até mesmo um bom café ☕, me chama!
 
-##
+📫 Contato: https://www.linkedin.com/in/christiane-rodrigues/
+             chriscra_amorim@yahoo.com.br
