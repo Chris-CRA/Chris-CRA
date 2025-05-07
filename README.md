@@ -1,7 +1,7 @@
 ### 👋 Olá! Bem-vindo(a) ao meu perfil no GitHub
 
 <p align="center">
-  <img src="[https://link-para-o-seu-banner.com/banner.png](https://imgur.com/a/gZ9r6kN)" alt="Banner de Christiane Rodrigues">
+  <img src="https://imgur.com/gvc2Hsl" alt="Banner de Christiane Rodrigues">
 </p>
 
 Me chamo **Christiane Rodrigues** e sou estudante de **Análise e Desenvolvimento de Sistemas**. Tenho grande interesse pela área de **Garantia da Qualidade (QA)**, além de gostar de explorar desenvolvimento web e automações.
