@@ -1,6 +1,10 @@
 ### 👋 Olá! Bem-vindo(a) ao meu perfil no GitHub
 
-Me chamo **Christiane Rodrigues** e sou estudante de **Análise e Desenvolvimento de Sistemas**. Tenho grande interesse pela área de **Quality Assurance (QA)**, além de gostar de explorar desenvolvimento web e automações.
+<p align="center">
+  <img src="[https://link-para-o-seu-banner.com/banner.png](https://imgur.com/a/gZ9r6kN)" alt="Banner de Christiane Rodrigues">
+</p>
+
+Me chamo **Christiane Rodrigues** e sou estudante de **Análise e Desenvolvimento de Sistemas**. Tenho grande interesse pela área de **Garantia da Qualidade (QA)**, além de gostar de explorar desenvolvimento web e automações.
 
 🧪 Atualmente estou estudando testes manuais e automatizados, com foco em boas práticas de qualidade de software.
 
@@ -15,6 +19,8 @@ Me chamo **Christiane Rodrigues** e sou estudante de **Análise e Desenvolviment
 ### 🚀 Tecnologias que estou aprendendo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -24,11 +30,10 @@ Me chamo **Christiane Rodrigues** e sou estudante de **Análise e Desenvolviment
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chris-CRA&show_icons=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-CRA&layout=compact&langs_count=6&theme=default"/>
 </div>
 
 ---
 
 **Vamos conectar?**  
 🔗 [LinkedIn](https://www.linkedin.com/in/christiane-rodrigues/)
---->
+
