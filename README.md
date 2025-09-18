@@ -1,42 +1,50 @@
-### 👋 Olá! Seja bem-vindo(a) ao meu perfil no GitHub
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:00c6ff&height=200&section=header&text=👋%20Olá,%20sou%20Christiane!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-Me chamo **Christiane Rodrigues**, sou estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta da área de **Garantia da Qualidade (QA)**. Tenho interesse especial por testes de software, automações e desenvolvimento web.
+### 👩‍💻 Sobre mim
 
-🧪 Atualmente estou estudando **testes manuais e automatizados**, com foco em boas práticas de **qualidade de software**.
+Sou **Christiane Rodrigues**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por **Garantia da Qualidade (QA)**.  
+Atualmente, estou explorando:
 
-💻 Também estou praticando desenvolvimento com **HTML**, **CSS** e **JavaScript**, criando projetos práticos para consolidar o aprendizado.
+- 🧪 **Testes de Software** → manuais e automatizados  
+- 💻 **Desenvolvimento Web** → HTML, CSS e JavaScript  
+- ☕ **Java** → lógica, estrutura de dados e Collections  
 
-☕ E recentemente, iniciei meus estudos com **Java**, explorando lógica de programação, estrutura de dados, tratamento de exceções e o uso do **Java Collections Framework**.
-
-📌 Aqui você encontrará projetos de estudos, anotações e experimentos com diferentes ferramentas e linguagens — tudo feito com muita curiosidade e vontade de evoluir constantemente.
-
-📚 Acredito que compartilhar conhecimento é uma das melhores formas de crescer na área de tecnologia.
+📌 Aqui você vai encontrar projetos práticos, anotações de estudos e experimentos 🚀  
 
 ---
 
 ### 🚀 Tecnologias que estou aprendendo
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,git" />
+</p>
 
 ---
 
-### 📊 Estatísticas do GitHub
-
+### 📊 Minhas estatísticas no GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chris-CRA&show_icons=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chris-CRA&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Chris-CRA&theme=tokyonight" />
 </div>
 
 ---
 
-**Vamos nos conectar?**  
-🔗 [LinkedIn](https://www.linkedin.com/in/christiane-rodrigues/)
+### 📈 Atividade recente
+[![Chris-CRA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chris-CRA&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-✨ _Perfil mantido com dedicação por **Chris-CRA**"_ 
+
+### 🌐 Vamos nos conectar?
+<p align="left">
+  <a href="https://www.linkedin.com/in/christiane-rodrigues/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff9a9e&height=120&section=footer)
+
+✨ _Perfil mantido com dedicação por **Chris-CRA**_
+
 
 
