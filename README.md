@@ -1,21 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:00c6ff&height=200&section=header&text=👋%20Olá,%20sou%20Christiane!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-### 👩‍💻 Sobre mim
+# Olá, eu sou Christiane 👋
 
-Sou **Christiane Rodrigues**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por **Garantia da Qualidade (QA)**.  
-Atualmente, estou explorando:
+🎓 Formada em Análise e Desenvolvimento de Sistemas
 
-- 🧪 **Testes de Software** → manuais e automatizados  
-- 💻 **Desenvolvimento Web** → HTML, CSS e JavaScript  
-- ☕ **Java** → lógica, estrutura de dados e Collections  
+💼 Support Engineer
 
-📌 Aqui você vai encontrar projetos práticos, anotações de estudos e experimentos 🚀  
+🔍 Interesse em:
+- Quality Assurance
+- APIs REST
+- Java e Spring Boot
+- Angular
+- Automação
 
 ---
 
 ### 🚀 Tecnologias que estou aprendendo
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,git" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,git,spring boot,api" />
 </p>
 
 ---
@@ -44,7 +46,7 @@ Atualmente, estou explorando:
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff9a9e&height=120&section=footer)
 
-✨ _Perfil mantido com dedicação por **Chris-CRA**_
+✨ _Perfil mantido por **Christiane**_
 
 
 
