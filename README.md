@@ -15,9 +15,9 @@
 
 ---
 
-### 🚀 Tecnologias que estou aprendendo
+### 🚀 Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,git,spring boot" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,git" />
 </p>
 
 ---
